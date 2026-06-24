@@ -1,5 +1,5 @@
 # language-translation-tool
-Description
+**#Description**
 The **Language Translation Tool** is a streamlined application designed to seamlessly translate text across multiple languages. It bridges communication gaps by providing accurate, real-time translations through an intuitive user interface, making it perfect for global communication, learning new languages, or localizing content.
 
 ---
